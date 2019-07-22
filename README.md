@@ -31,7 +31,7 @@ We respectfully ask that the `async-` gem namespace is reserved for officially s
 
 ### Donations
 
-If you want to donate to this project, you may do so using [BitCoin](https://www.blockchain.com/btc/payment_request?address=1BU3RnjB7fS9XmiTHgbmLKL36S5kccovs8). All money donated this way will be used to further development of this and related open source projects.
+If you want to donate to this project, you may do so using [BitCoin](https://www.blockchain.com/btc/payment_request?address=1BU3RnjB7fS9XmiTHgbmLKL36S5kccovs8) or [Patreon](http://patreon.com/ioquatix). All money donated this way will be used to further development of this and related open source projects.
 
 ### Priority Business Support
 
