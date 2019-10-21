@@ -29,31 +29,18 @@ We respectfully ask that the `async-` gem namespace is reserved for officially s
 
 ## Funding
 
+### Sponsorship
+
+The easiest option is to use the "Sponsor" button at the top of this page.
+
 ### Donations
 
-If you want to donate to this project, you may do so using [BitCoin](https://www.blockchain.com/btc/payment_request?address=1BU3RnjB7fS9XmiTHgbmLKL36S5kccovs8) or [Patreon](http://patreon.com/ioquatix). All money donated this way will be used to further development of this and related open source projects.
+If you want to make one-off donations to this project, you may do so using [BitCoin](https://www.blockchain.com/btc/payment_request?address=1BU3RnjB7fS9XmiTHgbmLKL36S5kccovs8). All money donated this way will be used to further development of this and related open source projects.
 
 ### Priority Business Support
 
-We are happy to provide commercial support for specific gems:
+The business level sponsorship tiers include includes dedicated support options. In addition, we are happy to provide commercial support and contracting for specific gems:
 
 - https://github.com/socketry/falcon#priority-business-support
 
-If you are interested in receiving commercial support for other gems within the Socketry organisation, please [contact us](mailto:contact@oriontransfer.net).
-
-### Sponsorship
-
-We are happy to invite companies to sponsor specific gems within Socketry. By sponsoring a gem, your logo and link would be added at the bottom of the `README.md` for the duration of the sponsorship. Logos will be ordered based on the value of the sponsorship.
-
-Please [contact us](mailto:contact@oriontransfer.net) to start the sponsorship process.
-
-#### Pricing
-
-The sponsorship model has a minimum of $100 USD per month, invoiced at the start of each 6 month period. Sponsorship fees automatically roll over to the next period, unless cancelled in writing (email).
-
-#### Requirements
-
-Please provide the following:
-
-- SVG logo, to fit 512x512 px square.
-- URL for link.
+Please [contact us](mailto:contact@oriontransfer.net) to discuss your requirements.
