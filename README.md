@@ -4,12 +4,11 @@ This documentation serves as a stepping stone to support the community and comme
 
 ## Communciation
 
-### Gitter
+### Chat
 
 Join us for real-time discussions and help:
 
-- https://gitter.im/socketry/async
-- https://gitter.im/socketry/falcon
+- https://spectrum.chat/async
 
 ## Contributing
 
