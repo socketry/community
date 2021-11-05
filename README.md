@@ -28,9 +28,7 @@ We respectfully ask that the `async-` gem namespace is reserved for officially s
 
 We provide extended commercial support and features, please visit <https://socketry.io> for more details.
 
-## Funding
-
-### Sponsorship
+## Sponsorship
 
 The easiest option is to use the "Sponsor" button at the top of this page.
 
