@@ -24,6 +24,10 @@ We expect all contributors and members of the community to be respectful and gen
 
 We respectfully ask that the `async-` gem namespace is reserved for officially sanctioned gems within the Socketry organisation.
 
+## Priority Business Support
+
+We provide extended commercial support and features, please visit <https://socketry.io> for more details.
+
 ## Funding
 
 ### Sponsorship
@@ -33,11 +37,3 @@ The easiest option is to use the "Sponsor" button at the top of this page.
 ### Donations
 
 If you want to make one-off donations to this project, you may do so using [BitCoin](https://www.blockchain.com/btc/payment_request?address=1BU3RnjB7fS9XmiTHgbmLKL36S5kccovs8). All money donated this way will be used to further development of this and related open source projects.
-
-### Priority Business Support
-
-The business level sponsorship tiers include includes dedicated support options. In addition, we are happy to provide commercial support and contracting for specific gems:
-
-- https://github.com/socketry/falcon#priority-business-support
-
-Please [contact us](mailto:contact@oriontransfer.net) to discuss your requirements.
