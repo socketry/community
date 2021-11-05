@@ -31,7 +31,3 @@ We provide extended commercial support and features, please visit <https://socke
 ## Sponsorship
 
 The easiest option is to use the "Sponsor" button at the top of this page.
-
-### Donations
-
-If you want to make one-off donations to this project, you may do so using [BitCoin](https://www.blockchain.com/btc/payment_request?address=1BU3RnjB7fS9XmiTHgbmLKL36S5kccovs8). All money donated this way will be used to further development of this and related open source projects.
