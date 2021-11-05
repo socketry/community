@@ -6,9 +6,7 @@ This documentation serves as a stepping stone to support the community and comme
 
 ### Chat
 
-Join us for real-time discussions and help:
-
-- https://spectrum.chat/async
+Please use project specific "Discussions" on GitHub, including the one on this project.
 
 ## Contributing
 
